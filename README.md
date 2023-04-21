@@ -19,8 +19,8 @@ This is a version of Pong that is playable on a physical LCD screen and joystick
 A portable update of a classic! For those of us who always wanted to play pong on the go, but love the retro feel of a joystick and screen. We all know we can pull out our phone and play almost any game released over 20 years ago, but mobile games lack the tactile feel of a joystick. Why compromise? So I built this version of pong on a mini LCD with a joystick in baremetal arduino code.
 
 ### Built With
-Baremetal C
-Arduino
+Baremetal C,
+Arduino,
 Atmel Studio
 
 
